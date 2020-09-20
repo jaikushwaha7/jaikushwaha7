@@ -3,8 +3,8 @@
 
 <div align="center" width="20">
 
-<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif1.gif/" width="100"/>
-<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gig2.gif/" width="300"/>
+<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif1.gif/" width="200"/>
+<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif3.gif/" width="300"/>
 </div>
 
 
