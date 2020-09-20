@@ -4,7 +4,7 @@
 <div align="center" width="20">
 
 <img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif1.gif/" width="100"/>
-
+<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gig2.gif/" width="300"/>
 </div>
 
 
@@ -32,7 +32,7 @@
 
 <a href="https://www.linkedin.com/in/jai-kushwaha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/jai.kushwaha.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://eportfolio.greatlearning.in/jai-kushwaha" target="_blank"><img src="" alt="Great Lakes"></a>
+<a href="https://eportfolio.greatlearning.in/jai-kushwaha" target="_blank"><img src=""https://github.com/jaikushwaha7/jaikushwaha7/blob/master/great%20lakes%20logo.png"></a>
 
 
 </div>
