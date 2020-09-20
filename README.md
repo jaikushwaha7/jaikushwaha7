@@ -17,9 +17,7 @@
 - ⚡ Fun fact: ... I love to experiment with cooking and learning new Guitar pluckings.
 
 
-![Jai Kushwaha Git Stats](https://github-readme-stats.vercel.app/api?username=jaikushwaha7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&v=dkE4mVhwMB4&redir_token=QUFFLUhqa1B1ZEdRd0Q0ZTdZVk9MeXEtODQzWHMxOXVsQXxBQ3Jtc0trbDd1a3c5N1RXdWxWc1JNVmp0SDhfV09FZWcwYXV4dUVXUV9fOWhkcE9CRTI1V1BtZzRFbmxqM08yWWZGRmswX1Z5VlJtQVUxc3lQdXZ3bUJoZkV6VnZjeVBjeU1TMFpvWVA3bmhNMlNRS24zQlRQOA==&event=video_description&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaikushwaha7&layout=compact&bg_color=151515&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Jai Kushwaha Git Stats](https://github-readme-stats.vercel.app/api?username=jaikushwaha7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&v=dkE4mVhwMB4&redir_token=QUFFLUhqa1B1ZEdRd0Q0ZTdZVk9MeXEtODQzWHMxOXVsQXxBQ3Jtc0trbDd1a3c5N1RXdWxWc1JNVmp0SDhfV09FZWcwYXV4dUVXUV9fOWhkcE9CRTI1V1BtZzRFbmxqM08yWWZGRmswX1Z5VlJtQVUxc3lQdXZ3bUJoZkV6VnZjeVBjeU1TMFpvWVA3bmhNMlNRS24zQlRQOA==&event=video_description&theme=onedark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaikushwaha7&layout=compact&bg_color=151515&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![HitCount](http://hits.dwyl.com/jaikushwaha7/jaikushwaha7.svg)](http://hits.dwyl.com/jaikushwaha7/jaikushwaha7)
 
