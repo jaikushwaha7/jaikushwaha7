@@ -1,5 +1,13 @@
-## Hi, I am Jai Kushwaha 👋
+<h1>Hello, I'm Jai Kushwaha 🙋‍♂️</h1> 
+<h2>💻👨‍💻AI || ML || Enthusiast</h2>
 
+<div align="center" width="50">
+
+<img src="/" width="300"/>
+
+</div>
+
+<div align="center">
 - 🔭 I’m currently working on ... Predicting Delinquency and Loan Default in MSME sector of a PSU Bank
 - 🌱 I’m currently learning ... AWS services and sagemaker
 - 👯 I’m looking to collaborate on ... Data Models Interpretibility and Business Understanding effiective solutions.
@@ -12,3 +20,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaikushwaha7&layout=compact&bg_color=151515&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![HitCount](http://hits.dwyl.com/jaikushwaha7/jaikushwaha7.svg)](http://hits.dwyl.com/jaikushwaha7/jaikushwaha7)
+
+<i>Follow me around the web:</i><br>
+
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/jai-kushwaha/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <a target="_blank" href="https://www.facebook.com/jai.kushwaha.5/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+  <a target="_blank" href="https://eportfolio.greatlearning.in/jai-kushwaha">G​r​e​a​t​L​a​k​e​s​</a> -->
+
+<a href="https://www.linkedin.com/in/jai-kushwaha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/jai.kushwaha.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://eportfolio.greatlearning.in/jai-kushwaha" target="_blank"><img src="" alt="Great Lakes"></a>
+
+
+</div>
+
+<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/jai-kushwaha/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/jai.kushwaha.5/) ● [G​r​e​a​t​L​a​k​e​s​](https://eportfolio.greatlearning.in/jai-kushwaha) -->
