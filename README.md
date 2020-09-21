@@ -26,7 +26,7 @@
 <td>
 <img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg" width="180"/>
 
-Jai Kushwaha
+#  👨‍ Jai Kushwaha
 
 <p align="center">
 <a href = "https://github.com/jaikushwaha7"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
@@ -50,3 +50,34 @@ Jai Kushwaha
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/jai-kushwaha/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/jai.kushwaha.5/) ● [M​e​d​i​u​m​](https://medium.com/@jaikushwaha7/) ●--->
 
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br> 
+
+<details> 
+
+<summary><b>📑 My latest Medium articles</b>:</summary>
+   <a target="_blank" href="https://medium.com/@jaikushwaha7/enhancing-poorly-designed-dashboard-a3eec838c6b5?source=---------2----------------------------"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jaikushwaha7/0" alt="Recent Article 0"></a>
+   <a target="_blank" href="https://medium.com/@jaikushwaha7/application-of-linear-programming-lp-and-discuss-the-usefulness-of-lp-91c1bf1d1c5c?source=---------3----------------------------/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jaikushwaha7/1" alt="Recent Article 1"></a>
+   <a target="_blank" href="https://medium.com/@jaikushwaha7/applications-of-various-time-series-models-in-the-context-of-prices-of-airlines-ticket-like-low-911b060a94cb?source=---------4----------------------------/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jaikushwaha7/2" alt="Recent Article 2"></a>
+   <a target="_blank" href="https://medium.com/@jaikushwaha7/the-applications-of-anova-one-way-anova-two-way-anova-and-regression-techniques-in-the-context-c53d84c1a248?source=---------5----------------------------/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jaikushwaha7/3" alt="Recent Article 3"></a>
+</details>
