@@ -1,5 +1,10 @@
 <h1 align="center">Hello, I'm Jai Kushwaha 🙋‍♂️</h1>
 <h2 align="center">💻👨‍💻AI || ML || Enthusiast</h2>
+<table style="background-color:#F5F5DC">
+<tr>
+<td>
+<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg" width="180"/>
+
 # 👨‍ Jai Kushwaha
 
 <p align="center">
@@ -9,7 +14,6 @@
 </td>
 </tr> 
 </table>
-<div align="center" width="20">
 <img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif1.gif/" width="100"/>
 <img " src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif3.gif/" width="300"/>
 </div>
@@ -29,20 +33,7 @@
 
 [![HitCount](http://hits.dwyl.com/jaikushwaha7/jaikushwaha7.svg)](http://hits.dwyl.com/jaikushwaha7/jaikushwaha7)
 
-<table style="background-color:#F5F5DC">
-<tr>
-<td>
-<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg" width="180"/>
 
-# 👨‍ Jai Kushwaha
-
-<p align="center">
-<a href = "https://github.com/jaikushwaha7"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
-<a href = "https://stackoverflow.com/users/14311693/jai-kushwaha?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
-</p>
-</td>
-</tr> 
-</table>
 
 <i>Follow me around the web:</i><br>
 
