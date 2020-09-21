@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Jai Kushwaha 🙋‍♂️</h1>
 <h2 align="center">💻👨‍💻AI || ML || Enthusiast</h2>
-<table style="background-color:#F5F5DC">
+<h3 align="center"><table style="background-color:#F5F5DC">
 <tr>
 <td>
 <img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg" width="180"/>
@@ -14,10 +14,11 @@
 </p>
 </td>
 
-</tr> <img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif1.gif/" width="100"/>
+</tr> 
+<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif1.gif/" width="100"/>
 <img " src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif3.gif/" width="300"/>
 </div>
-</table>
+</table></h2>
 
 ### About myself
 - 🔭 I’m currently working on ... Predicting Delinquency and Loan Default in MSME sector of a PSU Bank
