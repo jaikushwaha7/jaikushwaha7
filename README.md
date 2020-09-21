@@ -1,6 +1,14 @@
 <h1 align="center">Hello, I'm Jai Kushwaha 🙋‍♂️</h1>
 <h2 align="center">💻👨‍💻AI || ML || Enthusiast</h2>
+# 👨‍ Jai Kushwaha
 
+<p align="center">
+<a href = "https://github.com/jaikushwaha7"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
+<a href = "https://stackoverflow.com/users/14311693/jai-kushwaha?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+</tr> 
+</table>
 <div align="center" width="20">
 <img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif1.gif/" width="100"/>
 <img " src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif3.gif/" width="300"/>
@@ -26,7 +34,7 @@
 <td>
 <img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg" width="180"/>
 
-#  👨‍ Jai Kushwaha
+# 👨‍ Jai Kushwaha
 
 <p align="center">
 <a href = "https://github.com/jaikushwaha7"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
@@ -57,17 +65,11 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
 </br>
 </br>
