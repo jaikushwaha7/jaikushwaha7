@@ -11,12 +11,12 @@
 <a href = "https://github.com/jaikushwaha7"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
 <a href = "https://stackoverflow.com/users/14311693/jai-kushwaha?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
 
-<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif1.gif/" width="100"/>
-<img " src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif3.gif/" width="300"/>
-</div>
 </p>
 </td>
-</tr> 
+
+</tr> <img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif1.gif/" width="100"/>
+<img " src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif3.gif/" width="300"/>
+</div>
 </table>
 
 ### About myself
