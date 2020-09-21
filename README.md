@@ -5,19 +5,19 @@
 <td>
 <img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg" width="180"/>
 
-# 👨‍ Jai Kushwaha
+👨‍ Jai Kushwaha
 
 <p align="center">
 <a href = "https://github.com/jaikushwaha7"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
 <a href = "https://stackoverflow.com/users/14311693/jai-kushwaha?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
+
+<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif1.gif/" width="100"/>
+<img " src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif3.gif/" width="300"/>
+</div>
 </p>
 </td>
 </tr> 
 </table>
-<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif1.gif/" width="100"/>
-<img " src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/gif3.gif/" width="300"/>
-</div>
-
 
 ### About myself
 - 🔭 I’m currently working on ... Predicting Delinquency and Loan Default in MSME sector of a PSU Bank
