@@ -53,7 +53,7 @@
 ### Languages & Tools 👨‍💻 🛠:
 </br>
 
-<p align="center">
+<p align="left">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
