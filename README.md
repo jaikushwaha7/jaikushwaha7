@@ -50,7 +50,8 @@
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/jai-kushwaha/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/jai.kushwaha.5/) ● [M​e​d​i​u​m​](https://medium.com/@jaikushwaha7/) ●--->
 
-### Languages & Tools 👨‍💻 🛠:
+
+### Languages & Tools 👨‍💻 🛠
 </br>
 
 <p align="left">
