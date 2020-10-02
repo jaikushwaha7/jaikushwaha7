@@ -42,7 +42,7 @@
   <a target="_blank" href="https://www.facebook.com/jai.kushwaha.5/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
   <a target="_blank" href="https://medium.com/@jaikushwaha7">M​e​d​i​u​m​</a> -->
 
-<a href="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpghttps://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/jai-kushwaha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/jai.kushwaha.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://medium.com/@jaikushwaha7/" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=Medium&logoColor=white" alt="Medium"></a>
 
