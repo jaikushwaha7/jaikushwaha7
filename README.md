@@ -80,6 +80,6 @@
    <a target="_blank" href="https://medium.com/@jaikushwaha7/the-applications-of-anova-one-way-anova-two-way-anova-and-regression-techniques-in-the-context-c53d84c1a248?source=---------5----------------------------/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jaikushwaha7/3" alt="Recent Article 3"></a>
 </details>
 
-https://github-profile-trophy.vercel.app/?username=jaikushwaha7&no-frame=true
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaikushwaha7)](https://github.com/jaikushwaha7/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaikushwaha7&no-frame=true)](https://github.com/jaikushwaha7/github-profile-trophy)
