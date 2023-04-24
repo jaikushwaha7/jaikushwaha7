@@ -81,3 +81,5 @@
 </details>
 
 https://github-profile-trophy.vercel.app/?username=jaikushwaha7&no-frame=true
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaikushwaha7)](https://github.com/jaikushwaha7/github-profile-trophy)
