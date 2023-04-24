@@ -22,7 +22,7 @@
 <h3 align="center"><table style="background-color:#F5F5DC">
 <tr>
 <td>
-<img src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg" width="180"/>
+<img align="center" src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg" width="180"/>
 
 👨‍ Jai Kushwaha
 
