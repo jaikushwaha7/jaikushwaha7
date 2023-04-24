@@ -82,4 +82,4 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaikushwaha7&no-frame=true)](https://github.com/jaikushwaha7/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaikushwaha7&no-frame=true&theme=oldie&margin-w=15)](https://github.com/jaikushwaha7/github-profile-trophy)
