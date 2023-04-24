@@ -20,15 +20,16 @@
 
 [![HitCount](http://hits.dwyl.com/jaikushwaha7/jaikushwaha7.svg)](http://hits.dwyl.com/jaikushwaha7/jaikushwaha7)
 <h3 align="center"><table style="background-color:#F5F5DC">
-<tr>
+
+<!--<tr>
 <td>
-<! ---<img align="center" src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg" width="180"/>
-// 👨‍ Jai Kushwaha//
--->
+
+<img align="center" src="https://github.com/jaikushwaha7/jaikushwaha7/blob/master/Jai%20Photo.jpg" width="180"/>
+👨‍ Jai Kushwaha 
 <p align="center">
 <a href = "https://github.com/jaikushwaha7"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
 <a href = "https://stackoverflow.com/users/14311693/jai-kushwaha?tab=profile"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow svg icon.svg" width="36" height="36"/></a>
-
+-->
 </p>
 </td>
 
