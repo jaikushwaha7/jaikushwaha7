@@ -36,35 +36,31 @@
 </table></h2>
 
 
-### <i> 👉 Follow me around the web:</i><br>
+### <i> 👉 Follow me around the web</i>
 
 <p align="left">
-  <a href="https://jaikushwaha7.github.io/JaiKushwaha.github.io//"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:jaikushwaha7@gmail.com><img src="https://img.icons8.com/badge/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/jaikushwaha7"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/jai-kushwaha"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/jai.kushwaha.5/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-  <a href="https://medium.com/@jaikushwaha7/" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=Medium&logoColor=white" alt="Medium"></a>
+  	<a href="https://jaikushwaha7.github.io/JaiKushwaha.github.io//"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+	<a href="mailto:jaikushwaha7@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/jaikushwaha7"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/jai-kushwaha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/jai.kushwaha.5/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+        <a href="https://medium.com/@jaikushwaha7/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 
 </div>
 
 ### 👉 Languages & Tools 👨‍💻 🛠
-</br>
-
 <p align="left">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="100" hight="30">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/r.png" alt="R" >
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="30">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="90" hight="30">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="90" hight="30">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/aws.png" alt="AWS" width="90" hight="30">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="90" hight="30">
-</br>
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->	
+&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" width="100" hight="30"> 
+&emsp;
+<a href="#"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/r.png" alt="R" >&emsp;
+ <a href="#"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="30">&emsp;
+ <a href="#"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="90" hight="30">&emsp;
+ <a href="#"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="150" hight="80">&emsp;
+ <a href="#"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/aws.png" alt="AWS" width="90" hight="30">&emsp;
+ <a href="#"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="200" hight="80">&emsp;
 <p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
   &emsp;
@@ -76,11 +72,15 @@
   &emsp;
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
  &emsp; 
-</p>
-</p>
-</br>
-</br>
-</br> 
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+ &emsp; 	
+    <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
+ &emsp; 	
+    <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+ &emsp; 
+<a href="#"><img alt="MS Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
+ &emsp; 
+																
 
 <details> 
 
