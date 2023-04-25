@@ -78,9 +78,7 @@
  &emsp; 	
     <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
  &emsp; 
-<a href="#"><img alt="MS Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
- &emsp; 
-																
+															
 
 <details> 
 
