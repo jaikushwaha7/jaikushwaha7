@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="310" viewBox="0 0 550 310">
+  <style>
+    .background {
+      fill: #0d1117;
+    }
+    .code {
+      font-family: 'Consolas', 'Monaco', monospace;
+      font-size: 14px;
+      fill: #e6e6e6;
+    }
+    .comment {
+      fill: #6a9955;
+    }
+    .keyword {
+      fill: #569cd6;
+    }
+    .function {
+      fill: #dcdcaa;
+    }
+    .string {
+      fill: #ce9178;
+    }
+    .params {
+      fill: #9cdcfe;
+    }
+    .highlight {
+      opacity: 0;
+      animation: fadeIn 0.5s ease forwards;
+    }
+    
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    
+    .cursor {
+      fill: #ffffff;
+      animation: blink 1s infinite;
+    }
+    
+    .line1 { animation-delay: 0.2s; }
+    .line2 { animation-delay: 0.8s; }
+    .line3 { animation-delay: 1.4s; }
+    .line4 { animation-delay: 2.0s; }
+    .line5 { animation-delay: 2.6s; }
+    .line6 { animation-delay: 3.2s; }
+    .line7 { animation-delay: 3.8s; }
+    .line8 { animation-delay: 4.4s; }
+    .line9 { animation-delay: 5.0s; }
+    .line10 { animation-delay: 5.6s; }
+    .line11 { animation-delay: 6.2s; }
+    .line12 { animation-delay: 6.8s; }
+    .line13 { animation-delay: 7.4s; }
+    .line14 { animation-delay: 8.0s; }
+  </style>
+  
+  <!-- Background -->
+  <rect class="background" width="550" height="310" rx="10" ry="10" />
+  
+  <!-- Decorative elements -->
+  <circle cx="20" cy="20" r="6" fill="#ff5f56" />
+  <circle cx="40" cy="20" r="6" fill="#ffbd2e" />
+  <circle cx="60" cy="20" r="6" fill="#27c93f" />
+  
+  <!-- Code content -->
+  <g transform="translate(20, 50)">
+    <!-- Line 1 -->
+    <text class="code highlight line1">
+      <tspan x="0" y="0"><tspan class="keyword">def</tspan> <tspan class="function">data_science_journey</tspan>():</tspan>
+    </text>
+    
+    <!-- Line 2 -->
+    <text class="code highlight line2">
+      <tspan x="20" y="20"><tspan class="keyword">while</tspan> <tspan class="keyword">True</tspan>:</tspan>
+    </text>
+    
+    <!-- Line 3 -->
+    <text class="code highlight line3">
+      <tspan x="40" y="40"><tspan class="function">unlearn_old_patterns</tspan>()</tspan>
+    </text>
+    
+    <!-- Line 4 -->
+    <text class="code highlight line4">
+      <tspan x="40" y="60">knowledge = <tspan class="function">explore_new_domains</tspan>()</tspan>
+    </text>
+    
+    <!-- Line 5 -->
+    <text class="code highlight line5">
+      <tspan x="40" y="80">model = <tspan class="function">trainModel</tspan>(knowledge)</tspan>
+    </text>
+    
+    <!-- Line 6 -->
+    <text class="code highlight line6">
+      <tspan x="40" y="100">results = <tspan class="function">evaluate</tspan>(model)</tspan>
+    </text>
+    
+    <!-- Line 7 -->
+    <text class="code highlight line7">
+      <tspan x="40" y="120"><tspan class="keyword">if</tspan> <tspan class="keyword">not</tspan> <tspan class="function">satisfactory</tspan>(results):</tspan>
+    </text>
+    
+    <!-- Line 8 -->
+    <text class="code highlight line8">
+      <tspan x="60" y="140"><tspan class="function">tryAgain</tspan>()</tspan>
+    </text>
+    
+    <!-- Line 9 -->
+    <text class="code highlight line9">
+      <tspan x="40" y="160"><tspan class="keyword">else</tspan>:</tspan>
+    </text>
+    
+    <!-- Line 10 -->
+    <text class="code highlight line10">
+      <tspan x="60" y="180"><tspan class="function">master</tspan>()</tspan>
+    </text>
+    
+    <!-- Line 11 -->
+    <text class="code highlight line11">
+      <tspan x="60" y="200"><tspan class="keyword">break</tspan></tspan>
+    </text>
+    
+    <!-- Line 12 -->
+    <text class="code highlight line12">
+      <tspan x="20" y="220"><tspan class="keyword">return</tspan> innovation</tspan>
+    </text>
+    
+    <!-- Line 13 -->
+    <text class="code highlight line13">
+      <tspan x="0" y="250" class="comment"># Running forever</tspan>
+    </text>
+    
+    <!-- Line 14 -->
+    <text class="code highlight line14">
+      <tspan x="0" y="270"><tspan class="function">data_science_journey</tspan>()</tspan>
+    </text>
+    
+    <!-- Blinking cursor -->
+    <rect class="cursor" x="160" y="258" width="8" height="16" />
+  </g>
+</svg>
