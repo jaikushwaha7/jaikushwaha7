@@ -46,18 +46,18 @@
 ## 🛠️ Tech Stack
   
   **Languages & Tools:**  
-  <p align="center">
+  <p align="left">
       <img src="https://skillicons.dev/icons?i=python,r,aws,tensorflow,pytorch,git,github,sql,tableau, theme = Dark"/>
   </p>
   
   **Cloud & DevOps:**  
-  <p align="center">
+  <p align="left">
       <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,azure,heroku" />
   </p>
 </p>
 
 <h3 align="left">🚀 Tech Stack & Skills</h3>
-<p align="center">
+<p align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00&center=true&vCenter=true&multiline=False&width=600&lines=🚀+SQL+%7C+Python+%7C+R+%7C+SAS;☁️+AWS+%7C+GCP+%7C+BigQuery+%7C+Azure;🤖+Machine+Learning+%7C+Deep+Learning+%7C+GenAI;📊+Data+Exploration+%7C+Governance+%7C+Validation;🔬+Predictive+Analysis+%7C+A/B+Testing+%7C+AI+Modeling"> 
 </p>
 
