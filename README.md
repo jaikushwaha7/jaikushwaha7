@@ -35,7 +35,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaikushwaha7&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaikushwaha7&theme=radical" />
+  
 </p>
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaikushwaha7&layout=compact&theme=radical" />
