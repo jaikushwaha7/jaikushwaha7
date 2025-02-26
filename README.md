@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently Studying on **Master Data Science**
+- 🔭 Currently pursuing**MSc Data Science**
 - 🌱 Exploring **Agentic Flows, Multiagent USe cases and Scalable AI Solutions**
 - 🤝 Open to collaborations on **AI model interpretability & business-centric solutions**
 - 💡 Passionate about **Modern Solution in the age of SLM and LLMs**
