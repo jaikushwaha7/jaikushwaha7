@@ -51,7 +51,7 @@
   </p>
   
   **Cloud & DevOps:**  
-  <p align="left">
+  <p align="center">
       <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,azure,heroku" />
   </p>
 </p>
