@@ -24,7 +24,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently pursuing**MSc Data Science**
-- 🌱 Exploring **Agentic Flows, Multiagent USe cases and Scalable AI Solutions**
+- 🌱 Exploring **Agentic Flows, Multiagent Use cases and Scalable AI Solutions**
 - 🤝 Open to collaborations on **AI model interpretability & business-centric solutions**
 - 💡 Passionate about **Modern Solution in the age of SLM and LLMs**
 - ⚡ Fun Fact: **I play guitar, experiment with cooking, and love hackathons!**
