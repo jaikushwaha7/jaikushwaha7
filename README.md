@@ -47,7 +47,7 @@
   
   **Languages & Tools:**  
   <p align="left">
-      <img src="https://skillicons.dev/icons?i=python,r,aws,tensorflow,pytorch,git,github,sql,tableau, theme = Dark"/>
+      <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,git,sql,tableau"/>
   </p>
   
   **Cloud & DevOps:**  
